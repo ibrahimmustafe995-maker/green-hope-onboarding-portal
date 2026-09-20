@@ -1,8 +1,9 @@
- # Green Hope University — Garowe Campus
+import streamlit as st
+# Green Hope University — Garowe Campus
 ## Freshman Orientation & Welcome Portal
 
 A polished **Streamlit** web application that welcomes new students to the Garowe
-campus and walks them through freshman onboarding end to end — checklist,
+campus and walks them through freshman onboarding end to end checklist,
 progress tracking, and a campus department directory with one-click email.
 
 Built as a portfolio-ready reference implementation: modular code, a custom CSS
