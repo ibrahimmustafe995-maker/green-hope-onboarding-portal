@@ -25,7 +25,7 @@ The app opens at <http://localhost:8501>.
 
 > **Tip for demos:** click **Load demo student** in the sidebar. It fills in a
 > sample profile (Amina Yusuf Abdi, BSc Computer Science) and pre-completes four
-> checklist steps so the progress dashboard is populated straight away — much
+> checklist steps so the progress dashboard is populated straight away much
 > better than opening on an empty 0%.
 
 ---
@@ -48,7 +48,7 @@ The ten freshman steps, grouped into three orientation phases:
 
 Each step is a real checkbox with:
 - **weighted points** (the ten weights sum to exactly 100, so the percentage is
-  an honest weighted score — paying fees gates your start more than a library card);
+  an honest weighted score paying fees gates your start more than a library card);
 - a **deadline chip** that turns amber when due within 7 days and red when overdue;
 - an expander containing **why it matters, ordered steps, what to bring, the fee,
   where to go, a practical tip, and a one-click email** to the owning office.
