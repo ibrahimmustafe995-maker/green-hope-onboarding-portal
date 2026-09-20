@@ -1,5 +1,4 @@
- """Green Hope University — Garowe Campus.
-
+ import streamlit as st
 New Student Welcome & Campus Guide Portal.
 
 A single-file Streamlit application organised into exactly three tabs:
