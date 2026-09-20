@@ -1,4 +1,5 @@
- # Green Hope University — Garowe Campus
+ import streamlit as st
+# Green Hope University — Garowe Campus
 ## Freshman Orientation & Welcome Portal
 
 A polished **Streamlit** web application that welcomes new students to the Garowe
