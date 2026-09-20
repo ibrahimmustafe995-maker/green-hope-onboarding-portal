@@ -1,4 +1,7 @@
  import streamlit as st
+"""Green Hope University – Garowe Campus.
+"""
+
 New Student Welcome & Campus Guide Portal.
 
 A single-file Streamlit application organised into exactly three tabs:
